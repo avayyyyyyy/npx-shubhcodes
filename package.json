@@ -1,0 +1,22 @@
+{
+  "name": "shubhlovescode",
+  "version": "1.0.11",
+  "description": "Shubhankit's personal CLI",
+  "main": "index.js",
+  "module": "module",
+  "bin": {
+    "shubhlovescode": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shubhankit Jain",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2"
+  }
+}
