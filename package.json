@@ -1,9 +1,9 @@
 {
-  "name": "shubhlovescode",
-  "version": "1.0.11",
+  "name": "shubhcodes",
+  "version": "1.0.1",
   "description": "Shubhankit's personal CLI",
   "main": "index.js",
-  "module": "module",
+  "type": "module",
   "bin": {
     "shubhlovescode": "./index.js"
   },
@@ -17,6 +17,8 @@
     "boxen": "^5.0.1",
     "chalk": "^4.1.2",
     "figlet": "^1.5.2",
-    "gradient-string": "^2.0.2"
+    "gradient-string": "^2.0.2",
+    "inquirer": "^10.2.2",
+    "open": "^10.1.0"
   }
 }
