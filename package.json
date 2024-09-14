@@ -1,6 +1,6 @@
 {
   "name": "shubhcodes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shubhankit's personal CLI",
   "main": "index.js",
   "type": "module",
